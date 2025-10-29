@@ -67,21 +67,5 @@ It highlights a dependency on a few regional suppliers and the need for **data-d
 ## Tools & Technologies
 - **Power BI** – Data cleaning, modeling, and dashboard visualization  
 
----
 
-## Files in This Repository
-
-| File | Description |
-|------|--------------|
-| `fertilizer_import_dashboard.pbix` | Power BI dashboard file |
-| `import_2020_2024.csv` | Cleaned and merged dataset |
-| `README.md` | Project overview and documentation |
-| `screenshots/` | Dashboard preview images |
-
----
-
-## Dashboard Preview
-
-
----
 
