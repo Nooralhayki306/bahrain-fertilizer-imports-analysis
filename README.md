@@ -1,6 +1,6 @@
 # Bahrain Fertilizer Imports Analysis (2020–2024)
 
-## Project Overview
+## Problem statement
 Between **2020 and 2024**, Bahrain spent around **6 million Bahraini Dinars (BD)** on fertilizer imports, reflecting notable fluctuations in import activity over time.  
 This project analyzes how import values, quantities, and supplier dynamics evolved during that period — uncovering key patterns in **fertilizer types, trade partners, and seasonal demand**.  
 The dashboard was built in **Power BI** to transform raw trade data into clear, data-driven insights supporting agricultural and economic decision-making.
@@ -14,24 +14,6 @@ The analysis aims to answer the following key questions:
 2. **Which fertilizer commodities contribute most to Bahrain’s total import quantity and value?**  
 3. **Is there a seasonal pattern in animal and vegetable fertilizer imports throughout the year?**  
 4. **Which countries are the primary suppliers of fertilizers to Bahrain?**
-
----
-
-## Data Description
-**Source:** Bahrain import data from 2020–2024 (merged dataset)  
-**Size:** ~5 years of trade records  
-
----
-
-## Dashboard Features
-
-| Visualization | Purpose |
-|----------------|----------|
-| **KPI Cards** | Show total import value (6M BD), total quantity (39M kg), and number of supplier countries (34). |
-| **Line Chart** | Displays annual trend of fertilizer import value (2020–2024). |
-| **Bar Chart (by Country)** | Identifies top supplier countries — mainly Saudi Arabia and Jordan. |
-| **Combo Chart (by Commodity)** | Compares import quantity and value across fertilizer types. |
-| **Monthly Distribution Chart** | Highlights seasonality in animal/vegetable fertilizer imports. |
 
 ---
 
@@ -52,11 +34,4 @@ It highlights a dependency on a few regional suppliers and the need for **data-d
 ## Recommendations
 1. **Encourage Local Production:** Invest in small-scale fertilizer blending or manufacturing facilities to lower import reliance.  
 2. **Promote Sustainable Fertilizer Use:** Encourage efficient application methods to reduce wastage and preserve resources.  
-
----
-
-## Tools & Technologies
-- **Power BI** – Data cleaning, modeling, and dashboard visualization  
-
-
 
