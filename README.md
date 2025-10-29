@@ -21,15 +21,6 @@ The analysis aims to answer the following key questions:
 **Source:** Bahrain import data from 2020–2024 (merged dataset)  
 **Size:** ~5 years of trade records  
 
-**Main Columns**
-- `DATE`  
-- `Country Name`  
-- `Commodity / SUBCATEGORY`  
-- `Import Value (BD)` / `Import Value (USD)`  
-- `Import Quantity`  
-- `Import Weight (KG)`  
-- `HS_Key` and `UN code` for classification  
-
 ---
 
 ## Dashboard Features
