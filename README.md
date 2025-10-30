@@ -18,7 +18,7 @@ The analysis aims to answer the following key questions:
 ---
 
 ## Key Insights
-- Import values **peaked around 2022**, likely due to global price pressures or higher demand.  
+- Import values **peaked around 2021**, likely due to global price pressures or higher demand.  
 - **Animal or vegetable fertilizers** and **potassium chloride** are the leading imported commodities by both value and quantity.  
 - **Saudi Arabia and Jordan** dominate as Bahrain’s main fertilizer suppliers, showing regional dependency.  
 - **Seasonal patterns** indicate increased imports during agricultural planting periods (March–May).  
